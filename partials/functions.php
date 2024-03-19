@@ -20,4 +20,6 @@ function passGenerate($number) {
 
 }
 
+$password = passGenerate($number)
+
 ?>
